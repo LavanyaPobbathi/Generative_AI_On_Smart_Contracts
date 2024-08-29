@@ -12,13 +12,13 @@ Welcome to the **Generative AI in Smart Contracts** repository! This repository 
 This folder contains case studies created by our team. These case studies explore different aspects of Generative AI applications in smart contracts.
 
 ### **Fairness of Smart Contracts/**
-This directory includes research papers and references focusing on the fairness of smart contracts, exploring how AI can ensure or improve fairness in automated contractual agreements.
+This directory includes research papers and references focusing on the fairness of smart contracts, exploring how to improve fairness in automated contractual agreements.
 
 ### **Generative AI in Smart Contracts/**
-Here you'll find research papers specifically about the application of Generative AI in smart contracts, covering the potential, challenges, and advancements in this area.
+Here you'll find research papers specifically about the application of Generative AI in smart contracts, covering the potential, challenges, and advancements in Generative AI area.
 
 ### **Privacy in Smart Contracts/**
-This folder contains papers and articles discussing privacy concerns and solutions in smart contracts, particularly how AI can be used to enhance privacy within these contracts.
+This folder contains papers and articles discussing privacy concerns and solutions in smart contracts, particularly how to enhance privacy within these contracts.
 
 ## **How to Use**
 

@@ -1,4 +1,4 @@
-# **Generative AI in Smart Contracts**
+# **Research Papers of Generative AI in Smart Contracts**
 
 Welcome to the **Generative AI in Smart Contracts** repository! This repository is dedicated to our ongoing research on the integration of Generative AI with smart contracts. It contains various reference and research papers that we've collected to guide and support our study. Additionally, it includes our own case studies related to this topic.
 
